@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingconnect",
+        "uuid": 18394978,
+        "checksum": "sym9ic"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
